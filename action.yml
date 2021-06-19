@@ -1,0 +1,6 @@
+name: 'Setup RabbitMQ'
+decription: 'Setup RabbitMQ for testing - default port'
+author: 'Ezra Peisach'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
